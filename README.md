@@ -16,4 +16,5 @@ You are free to do whatever you want with it. Besides, all these projects are pu
 4. Go back to GitHub Desktop and click Fetch Origin. This makes sure that no conflicts happen.
 5. Click on Current Branch at the top and create your own branch,
 6. In Finder/File Manager, insert the project folder into an appropriate course category.
-7. Publish the branch.
+7. Go back to GitHub Desktop and click on Commit. You can add a commit message here as well.
+8. Publish your branch.
